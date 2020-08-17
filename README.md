@@ -41,4 +41,5 @@ Todos os desafios realizados neste repositório, foi utilizado a linguagem de pr
 Criado em 2020 
 
 Feito com carinho por [Douglas Alves Marcelino](https://github.com/TheeDouglasAM3) :duck:
+
 Esse projeto esta sobre [MIT license](./LICENSE).
