@@ -10,9 +10,9 @@ class Difference {
         this.elements = elements;
     }
 
-    int count = 0;
-    int difference = 0;
     public void computeDifference(){
+        int count = 0;
+        int difference = 0;
         for(int i = 0; i < elements.Length; i++){
             while(count + 1 < elements.Length){
                 difference = Math.Abs(elements[i] - elements[count + 1]);
